@@ -124,7 +124,8 @@ h1,h2,h3,h4,h5,h6{
     font-size: 12px;
     font-weight: bold;
     color: #babbbc;
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    padding-right: 25px;
 }
 #skills{
     width: 750px;
@@ -160,7 +161,7 @@ padding-left: 30px;
 
 #education-skills{
     display: flex;
-    background: #e4e2e3;
+    background: #ececec;
 }
 
 #education-skills h1{
@@ -193,10 +194,11 @@ padding-left: 30px;
 
 #education-text div
 {
+    padding-right: 150px;
     margin-top: 5px;
     font-size: 12px;
     font-weight: bold;
-    color: #fff;
+    color: #babbac;
     margin-bottom: 25px
 }
 
